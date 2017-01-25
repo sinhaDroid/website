@@ -1205,7 +1205,7 @@ nav a:focus {
     position: relative;
 }
 li.menu__item.menu__item--current a.menu__link {
-    color: #fff;
+    color: #000;
 }
 .menu--horatio .menu__item::before,
 .menu--horatio .menu__item::after,
